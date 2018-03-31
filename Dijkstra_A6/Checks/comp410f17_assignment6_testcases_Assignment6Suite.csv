@@ -1,0 +1,4 @@
+#,Time,%Passes,Change,Test,Pass,Partial,Fail,Untested
+0,Sun Dec 03 22:14:45 EST 2017,14,14,Assignment6Suite,ShortestPathTest1+ , ,EfficiencyTest1- ShortestPathTest0- ShortestPathTest2- ShortestPathTest3- ShortestPathTest4- ShortestPathTest5- , ,
+1,Sun Dec 03 22:49:18 EST 2017,0,-14,Assignment6Suite, , ,EfficiencyTest1 ShortestPathTest0 ShortestPathTest1- ShortestPathTest2 ShortestPathTest3 ShortestPathTest4 ShortestPathTest5 , ,
+2,Sun Dec 03 23:29:42 EST 2017,100,100,Assignment6Suite,EfficiencyTest1+ ShortestPathTest0+ ShortestPathTest1+ ShortestPathTest2+ ShortestPathTest3+ ShortestPathTest4+ ShortestPathTest5+ , , , ,
