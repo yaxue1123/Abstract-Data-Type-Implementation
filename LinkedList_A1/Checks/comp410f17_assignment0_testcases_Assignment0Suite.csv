@@ -1,0 +1,4 @@
+#,Time,%Passes,Change,Test,Pass,Partial,Fail,Untested
+0,Wed Sep 06 11:24:20 EDT 2017,0,0,Assignment0Suite, , ,LoudTest- QuietTest- , ,
+1,Wed Sep 06 11:29:26 EDT 2017,0,0,Assignment0Suite, , ,LoudTest QuietTest , ,
+2,Wed Sep 06 11:36:58 EDT 2017,100,100,Assignment0Suite,LoudTest+ QuietTest+ , , , ,
